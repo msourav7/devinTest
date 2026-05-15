@@ -10,6 +10,8 @@ public class BaseAPITest {
 
         RestAssured.baseURI = "https://devin-1-ruwq.onrender.com";
 
+        RestAssured.useRelaxedHTTPSValidation();
+
         System.out.println("BASE URI SET TO: " + RestAssured.baseURI);
     }
 }

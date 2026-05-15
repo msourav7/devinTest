@@ -258,3 +258,76 @@ bom1::27x8t-1777655570372-9ea4ebc928cf
 2026-05-16 01:53:42 INFO  tests.LoginAPITest - API Login Test Passed
 2026-05-16 01:53:43 INFO  tests.LoginTest - Waiting for user profile image
 2026-05-16 01:53:44 INFO  tests.LoginTest - Login status: true
+2026-05-16 02:32:16 INFO  tests.LoginAPITest - Starting API Login Test
+2026-05-16 02:32:18 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 02:32:18 INFO  tests.LoginTest - Entering credentials
+2026-05-16 02:32:29 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 02:32:29 INFO  tests.LoginTest - Entering credentials
+2026-05-16 02:32:40 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 02:32:40 INFO  tests.LoginTest - Entering credentials
+2026-05-16 02:32:50 INFO  tests.LoginAPITest - Status Code: 200
+2026-05-16 02:32:50 INFO  tests.LoginAPITest - API Login Test Passed
+2026-05-16 02:32:50 INFO  tests.SignupAPITest - Starting Signup API Test
+2026-05-16 02:32:50 INFO  tests.SignupAPITest - Status Code: 400
+2026-05-16 02:33:19 INFO  tests.LoginAPITest - Starting API Login Test
+2026-05-16 02:33:20 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 02:33:20 INFO  tests.LoginTest - Entering credentials
+2026-05-16 02:33:20 INFO  tests.LoginAPITest - Status Code: 200
+2026-05-16 02:33:20 INFO  tests.LoginAPITest - API Login Test Passed
+2026-05-16 02:33:20 INFO  tests.SignupAPITest - Starting Signup API Test
+2026-05-16 02:33:21 INFO  tests.LoginTest - Waiting for user profile image
+2026-05-16 02:33:21 INFO  tests.SignupAPITest - Status Code: 400
+2026-05-16 02:33:22 INFO  tests.LoginTest - Login status: true
+2026-05-16 02:35:28 INFO  tests.LoginAPITest - Starting API Login Test
+2026-05-16 02:35:30 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 02:35:30 INFO  tests.LoginTest - Entering credentials
+2026-05-16 02:35:31 INFO  tests.LoginTest - Waiting for user profile image
+2026-05-16 02:35:31 INFO  tests.LoginAPITest - Status Code: 200
+2026-05-16 02:35:31 INFO  tests.LoginAPITest - API Login Test Passed
+2026-05-16 02:35:31 INFO  tests.SignupAPITest - Starting Signup API Test
+2026-05-16 02:35:32 INFO  tests.SignupAPITest - Status Code: 200
+2026-05-16 02:35:32 INFO  tests.SignupAPITest - Signup API Test Passed
+2026-05-16 02:35:32 INFO  tests.ProfileAPITest - Starting Get Profile API Test
+2026-05-16 02:35:32 INFO  tests.LoginTest - Login status: true
+2026-05-16 02:35:33 INFO  tests.ProfileAPITest - TOKEN: null
+2026-05-16 02:35:33 INFO  tests.ProfileAPITest - Profile Status Code: 401
+2026-05-16 02:43:23 INFO  tests.LoginAPITest - Starting API Login Test
+2026-05-16 02:43:24 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 02:43:24 INFO  tests.LoginTest - Entering credentials
+2026-05-16 02:43:25 INFO  tests.LoginAPITest - Status Code: 200
+2026-05-16 02:43:25 INFO  tests.LoginAPITest - API Login Test Passed
+2026-05-16 02:43:25 INFO  tests.SignupAPITest - Starting Signup API Test
+2026-05-16 02:43:25 INFO  tests.LoginTest - Waiting for user profile image
+2026-05-16 02:43:26 INFO  tests.SignupAPITest - Status Code: 200
+2026-05-16 02:43:26 INFO  tests.SignupAPITest - Signup API Test Passed
+2026-05-16 02:43:26 INFO  tests.ProfileAPITest - Starting Get Profile API Test
+2026-05-16 02:43:27 INFO  tests.ProfileAPITest - TOKEN: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2YTA2ODFlYWUyNDM0ZjM4YWYyOWZjNTkiLCJpYXQiOjE3Nzg4Nzk2MDgsImV4cCI6MTc3ODk2NjAwOH0.c_5thClOEmLdCbTdNwxlY1jmL7T8B2p261frFYrspxA
+2026-05-16 02:43:27 INFO  tests.LoginTest - Login status: true
+2026-05-16 02:43:28 INFO  tests.ProfileAPITest - Profile Status Code: 200
+2026-05-16 02:43:28 INFO  tests.ProfileAPITest - Get Profile API Test Passed
+2026-05-16 04:10:45 INFO  tests.LoginAPITest - Starting API Login Test
+2026-05-16 04:10:47 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 04:10:47 INFO  tests.LoginTest - Entering credentials
+2026-05-16 04:10:58 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 04:10:58 INFO  tests.LoginTest - Entering credentials
+2026-05-16 04:11:09 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 04:11:09 INFO  tests.LoginTest - Entering credentials
+2026-05-16 04:11:28 INFO  tests.LoginAPITest - Status Code: 200
+2026-05-16 04:11:29 INFO  tests.LoginAPITest - API Login Test Passed
+2026-05-16 04:11:29 INFO  tests.SignupAPITest - Starting Signup API Test
+2026-05-16 04:11:29 INFO  tests.SignupAPITest - Status Code: 200
+2026-05-16 04:11:29 INFO  tests.SignupAPITest - Signup API Test Passed
+2026-05-16 04:11:29 INFO  tests.ProfileAPITest - Starting Get Profile API Test
+2026-05-16 04:11:32 INFO  tests.ProfileAPITest - Get Profile API Test Passed
+2026-05-16 04:11:59 INFO  tests.LoginAPITest - Starting API Login Test
+2026-05-16 04:12:01 INFO  tests.LoginTest - Starting Login Test
+2026-05-16 04:12:01 INFO  tests.LoginTest - Entering credentials
+2026-05-16 04:12:01 INFO  tests.LoginAPITest - Status Code: 200
+2026-05-16 04:12:01 INFO  tests.LoginAPITest - API Login Test Passed
+2026-05-16 04:12:01 INFO  tests.SignupAPITest - Starting Signup API Test
+2026-05-16 04:12:02 INFO  tests.LoginTest - Waiting for user profile image
+2026-05-16 04:12:03 INFO  tests.SignupAPITest - Status Code: 200
+2026-05-16 04:12:03 INFO  tests.SignupAPITest - Signup API Test Passed
+2026-05-16 04:12:03 INFO  tests.ProfileAPITest - Starting Get Profile API Test
+2026-05-16 04:12:04 INFO  tests.LoginTest - Login status: true
+2026-05-16 04:12:05 INFO  tests.ProfileAPITest - Get Profile API Test Passed

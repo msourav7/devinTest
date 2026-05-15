@@ -74,6 +74,8 @@
         </groups>
         <classes>
             <class name="tests.LoginAPITest"/>
+            <class name="tests.SignupAPITest"/>
+            <class name="tests.ProfileAPITest"/>
         </classes>
     </test>
 
