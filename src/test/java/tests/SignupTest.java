@@ -64,6 +64,9 @@ public class SignupTest extends BaseTest {
         return new Object[][]{
                 {"Souravnew", "Testnew", "test1new@gmail.com", "Test@123456"},
                 {"Usernew", "Demonew", "test2new@gmail.com", "Test@123456"}
+//                {"Souravneww", "Testneww", "test1neww@gmail.com", "Test@123456"},
+//                {"Userneww", "Demoneww", "test2neww@gmail.com", "Test@123456"}
+
         };
     }
 }

@@ -29,7 +29,7 @@ public class LoginAPITest extends BaseAPITest {
                 .relaxedHTTPSValidation()
                 .header("Content-Type", "application/json")
                 .body(requestBody)
-                .log().all()   // 👈 VERY IMPORTANT DEBUG
+                .log().all()   // for debug
                 .when()
                 .post("/login")
                 .then()

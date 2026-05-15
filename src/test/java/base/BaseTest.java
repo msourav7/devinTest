@@ -52,7 +52,7 @@ public void setup() {
 
     ChromeOptions options = new ChromeOptions();
 
-    // ✅ Detect headless from GitHub Actions
+    // detect headless from gitHub actions
     String headless = System.getProperty("headless");
     if ("true".equalsIgnoreCase(headless)) {
         options.addArguments("--headless=new");

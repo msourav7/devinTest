@@ -50,7 +50,7 @@
            <listener class-name="listeners.TestListener"/>
       </listeners>
 
-    <!--    1st thread alloted, UI (Login + Signup) → sequential-->
+    <!--    1st thread alloted, UI (Login + Signup) -> sequential-->
     <test name="UI Tests">
         <groups>
             <run>
@@ -59,13 +59,13 @@
             </run>
         </groups>
         <classes>
-<!--            These do NOT run in parallel,They run sequentially inside the same thread-->
+<!--            These do not run in parallel,they run sequentially inside the same thread-->
             <class name="tests.SignupTest"/>
             <class name="tests.LoginTest"/>
         </classes>
     </test>
 
-<!--    2nd thread alloted , API → parallel with UI-->
+<!--    2nd thread alloted , API -> parallel with UI-->
     <test name="API Tests">
         <groups>
             <run>
